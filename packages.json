@@ -1,6 +1,364 @@
 [
   {
+    "package": "shiny"
+    "url": "https://github.com/lllanos/r-universe/blob/main/shiny"
+    },
+  
+  {
+    "package": "shinythemes"
+    "url": "https://github.com/lllanos/r-universe/blob/main/shinythemes"
+    },
+  
+  {
+    "package": "dashboardthemes"
+    "url": "https://github.com/lllanos/r-universe/blob/main/dashboardthemes"
+    },
+  {
+    "package": "shinydashboard"
+    "url": "https://github.com/lllanos/r-universe/blob/main/shinydashboard"
+    },
+  {
+    "package": "rapidjsonr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/rapidjsonr"
+    },
+  {
+    "package": "jsonify"
+    "url": "https://github.com/lllanos/r-universe/blob/main/jsonify"
+    },
+  {
+    "package": "BH"
+    "url": "https://github.com/lllanos/r-universe/blob/main/BH"
+    },
+  {
+    "package": "colourvalues"
+    "url": "https://github.com/lllanos/r-universe/blob/main/colourvalues"
+    },
+  {
+    "package": "googlePolylines"
+    "url": "https://github.com/lllanos/r-universe/blob/main/googlePolylines"
+    },
+  {
+    "package": "geometries"
+    "url": "https://github.com/lllanos/r-universe/blob/main/geometries"
+    },
+  {
+    "package": "sfheaders"
+    "url": "https://github.com/lllanos/r-universe/blob/main/sfheaders"
+    },
+  {
+    "package": "geojsonsf"
+    "url": "https://github.com/lllanos/r-universe/blob/main/geojsonsf"
+    },
+  {
+    "package": "yaml"
+    "url": "https://github.com/lllanos/r-universe/blob/main/yaml"
+    },
+  {
+    "package": "htmlwidgets"
+    "url": "https://github.com/lllanos/r-universe/blob/main/htmlwidgets"
+    },
+  {
+    "package": "spatialwidget"
+    "url": "https://github.com/lllanos/r-universe/blob/main/spatialwidget"
+    },
+  {
+    "package": "mapdeck"
+    "url": "https://github.com/lllanos/r-universe/blob/main/mapdeck"
+    },
+  {
+    "package": "proxy"
+    "url": "https://github.com/lllanos/r-universe/blob/main/proxy"
+    },
+  {
+    "package": "e1071"
+    "url": "https://github.com/lllanos/r-universe/blob/main/e1071"
+    },
+  {
+    "package": "classInt"
+    "url": "https://github.com/lllanos/r-universe/blob/main/classInt"
+    },
+  {
+    "package": "DBI"
+    "url": "https://github.com/lllanos/r-universe/blob/main/DBI"
+    },
+  {
+    "package": "cpp11"
+    "url": "https://github.com/lllanos/r-universe/blob/main/cpp11"
+    },
+  {
+    "package": "wk"
+    "url": "https://github.com/lllanos/r-universe/blob/main/wk"
+    },
+  {
+    "package": "s2"
+    "url": "https://github.com/lllanos/r-universe/blob/main/s2"
+    },
+  {
+    "package": "units"
+    "url": "https://github.com/lllanos/r-universe/blob/main/units"
+    },
+  {
+    "package": "sf"
+    "url": "https://github.com/lllanos/r-universe/blob/main/sf"
+    },
+  {
+    "package": "lazyeval"
+    "url": "https://github.com/lllanos/r-universe/blob/main/lazyeval"
+    },
+  {
+    "package": "crosstalk"
+    "url": "https://github.com/lllanos/r-universe/blob/main/crosstalk"
+    },
+  {
+    "package": "DT"
+    "url": "https://github.com/lllanos/r-universe/blob/main/DT"
+    },
+  {
+    "package": "gtable"
+    "url": "https://github.com/lllanos/r-universe/blob/main/gtable"
+    },
+  {
+    "package": "isoband"
+    "url": "https://github.com/lllanos/r-universe/blob/main/isoband"
+    },
+  {
+    "package": "farver"
+    "url": "https://github.com/lllanos/r-universe/blob/main/farver"
+    },
+  {
+    "package": "labeling"
+    "url": "https://github.com/lllanos/r-universe/blob/main/labeling"
+    },
+  {
+    "package": "colorspace"
+    "url": "https://github.com/lllanos/r-universe/blob/main/colorspace"
+    },
+  {
+    "package": "munsell"
+    "url": "https://github.com/lllanos/r-universe/blob/main/munsell"
+    },
+  {
+    "package": "RColorBrewer"
+    "url": "https://github.com/lllanos/r-universe/blob/main/RColorBrewer"
+    },
+  {
+    "package": "viridisLite"
+    "url": "https://github.com/lllanos/r-universe/blob/main/viridisLite"
+    },
+  {
+    "package": "scales"
+    "url": "https://github.com/lllanos/r-universe/blob/main/scales"
+    },
+  {
+    "package": "ggplot2"
+    "url": "https://github.com/lllanos/r-universe/blob/main/ggplot2"
+    },
+  {
+    "package": "curl"
+    "url": "https://github.com/lllanos/r-universe/blob/main/curl"
+    },
+  {
+    "package": "sys"
+    "url": "https://github.com/lllanos/r-universe/blob/main/sys"
+    },
+  {
     "package": "askpass"
-    "url": "https://cran.r-project.org/src/contrib/askpass_1.1.tar.gz"
-    }
+    "url": "https://github.com/lllanos/r-universe/blob/main/askpass"
+    },
+  {
+    "package": "openssl"
+    "url": "https://github.com/lllanos/r-universe/blob/main/openssl"
+    },
+  {
+    "package": "httr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/httr"
+    },
+  {
+    "package": "generics"
+    "url": "https://github.com/lllanos/r-universe/blob/main/generics"
+    },
+  {
+    "package": "purrr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/purrr"
+    },
+  {
+    "package": "tidyselect"
+    "url": "https://github.com/lllanos/r-universe/blob/main/tidyselect"
+    },
+  {
+    "package": "dplyr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/dplyr"
+    },
+  {
+    "package": "tidyr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/tidyr"
+    },
+  {
+    "package": "data.table"
+    "url": "https://github.com/lllanos/r-universe/blob/main/data.table"
+    },
+  {
+    "package": "plotly"
+    "url": "https://github.com/lllanos/r-universe/blob/main/plotly"
+    },
+  {
+    "package": "xfun"
+    "url": "https://github.com/lllanos/r-universe/blob/main/xfun"
+    },
+  {
+    "package": "markdown"
+    "url": "https://github.com/lllanos/r-universe/blob/main/markdown"
+    },
+  {
+    "package": "backports"
+    "url": "https://github.com/lllanos/r-universe/blob/main/backports"
+    },
+  {
+    "package": "stringi"
+    "url": "https://github.com/lllanos/r-universe/blob/main/stringi"
+    },
+  {
+    "package": "stringr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/stringr"
+    },
+  {
+    "package": "broom"
+    "url": "https://github.com/lllanos/r-universe/blob/main/broom"
+    },
+  {
+    "package": "assertthat"
+    "url": "https://github.com/lllanos/r-universe/blob/main/assertthat"
+    },
+  {
+    "package": "blob"
+    "url": "https://github.com/lllanos/r-universe/blob/main/blob"
+    },
+  {
+    "package": "dbplyr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/dbplyr"
+    },
+  {
+    "package": "dtplyr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/dtplyr"
+    },
+  {
+    "package": "forcats"
+    "url": "https://github.com/lllanos/r-universe/blob/main/forcats"
+    },
+  {
+    "package": "gargle"
+    "url": "https://github.com/lllanos/r-universe/blob/main/gargle"
+    },
+  {
+    "package": "uuid"
+    "url": "https://github.com/lllanos/r-universe/blob/main/uuid"
+    },
+  {
+    "package": "googledrive"
+    "url": "https://github.com/lllanos/r-universe/blob/main/googledrive"
+    },
+  {
+    "package": "rematch"
+    "url": "https://github.com/lllanos/r-universe/blob/main/rematch"
+    },
+  {
+    "package": "cellranger"
+    "url": "https://github.com/lllanos/r-universe/blob/main/cellranger"
+    },
+  {
+    "package": "ids"
+    "url": "https://github.com/lllanos/r-universe/blob/main/ids"
+    },
+  {
+    "package": "googlesheets4"
+    "url": "https://github.com/lllanos/r-universe/blob/main/googlesheets4"
+    },
+  {
+    "package": "hms"
+    "url": "https://github.com/lllanos/r-universe/blob/main/hms"
+    },
+  {
+    "package": "clipr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/clipr"
+    },
+  {
+    "package": "bit"
+    "url": "https://github.com/lllanos/r-universe/blob/main/bit"
+    },
+  {
+    "package": "bit64"
+    "url": "https://github.com/lllanos/r-universe/blob/main/bit64"
+    },
+  {
+    "package": "tzdb"
+    "url": "https://github.com/lllanos/r-universe/blob/main/tzdb"
+    },
+  {
+    "package": "prettyunits"
+    "url": "https://github.com/lllanos/r-universe/blob/main/prettyunits"
+    },
+  {
+    "package": "progress"
+    "url": "https://github.com/lllanos/r-universe/blob/main/progress"
+    },
+  {
+    "package": "vroom"
+    "url": "https://github.com/lllanos/r-universe/blob/main/vroom"
+    },
+  {
+    "package": "readr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/readr"
+    },
+  {
+    "package": "haven"
+    "url": "https://github.com/lllanos/r-universe/blob/main/haven"
+    },
+  {
+    "package": "lubridate"
+    "url": "https://github.com/lllanos/r-universe/blob/main/lubridate"
+    },
+  {
+    "package": "modelr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/modelr"
+    },
+  {
+    "package": "readxl"
+    "url": "https://github.com/lllanos/r-universe/blob/main/readxl"
+    },
+  {
+    "package": "highr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/highr"
+    },
+  {
+    "package": "knitr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/knitr"
+    },
+  {
+    "package": "tinytex"
+    "url": "https://github.com/lllanos/r-universe/blob/main/tinytex"
+    },
+  {
+    "package": "rmarkdown"
+    "url": "https://github.com/lllanos/r-universe/blob/main/rmarkdown"
+    },
+  {
+    "package": "reprex"
+    "url": "https://github.com/lllanos/r-universe/blob/main/reprex"
+    },
+  {
+    "package": "selectr"
+    "url": "https://github.com/lllanos/r-universe/blob/main/selectr"
+    },
+  {
+    "package": "xml2"
+    "url": "https://github.com/lllanos/r-universe/blob/main/xml2"
+    },
+  {
+    "package": "rvest"
+    "url": "https://github.com/lllanos/r-universe/blob/main/rvest"
+    },
+  {
+    "package": "tidyverse"
+    "url": "https://github.com/lllanos/r-universe/blob/main/tidyverse"
+    },
 ]
